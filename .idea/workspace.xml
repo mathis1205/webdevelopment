@@ -17,6 +17,14 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="c5eabd8e-6a55-41e9-a5b0-f9f303a65261" />
+        <option name="url" value="https://github.com/mathis1205/webdevelopment.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
@@ -52,7 +60,7 @@
       <option name="presentableId" value="Default" />
       <updated>1664973850581</updated>
       <workItem from="1664973851839" duration="1888000" />
-      <workItem from="1664977427853" duration="6199000" />
+      <workItem from="1664977427853" duration="7636000" />
     </task>
     <servers />
   </component>
