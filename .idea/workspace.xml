@@ -2,13 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="de5787a1-1704-4ea3-bae5-9e3759213410" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/labo_3/homepage/images/FB_IMG_1605888710840.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labo_3/homepage/images/MV5BYzE5MjY1ZDgtMTkyNC00MTMyLThhMjAtZGI5OTE1NzFlZGJjXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_FMjpg_UX1000_.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labo_3/homepage/images/download.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labo_3/uitbreiding_homepage/images/FB_IMG_1605888710840.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labo_3/uitbreiding_homepage/images/MV5BYzE5MjY1ZDgtMTkyNC00MTMyLThhMjAtZGI5OTE1NzFlZGJjXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_FMjpg_UX1000_.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labo_3/uitbreiding_homepage/images/download.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labo_3/uitbreiding_homepage/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/labo_3/homepage/images/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/labo_3/homepage/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/labo_3/homepage/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/labo_3/opdrachten_1_2_3.html" beforeDir="false" afterPath="$PROJECT_DIR$/labo_3/opdrachten_1_2_3.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,13 +50,14 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/mathi/Documents/GitHub/webdevelopment/labo_3/homepage/images",
+    "last_opened_file_path": "C:/Users/mathi/Documents/GitHub/webdevelopment/labo_3",
     "settings.editor.selected.configurable": "configurable.group.tools",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\mathi\Documents\GitHub\webdevelopment\labo_3" />
       <recent name="C:\Users\mathi\Documents\GitHub\webdevelopment\labo_3\homepage\images" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
@@ -79,6 +79,7 @@
       <workItem from="1665149948098" duration="1294000" />
       <workItem from="1665221319842" duration="5711000" />
       <workItem from="1665303438001" duration="2740000" />
+      <workItem from="1665306872658" duration="1280000" />
     </task>
     <servers />
   </component>
