@@ -1,17 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="de5787a1-1704-4ea3-bae5-9e3759213410" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/labo_4/opdracht_5/hobbys.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labo_4/opdracht_5/images/FB_IMG_1605888710840.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labo_4/opdracht_5/images/MV5BYzE5MjY1ZDgtMTkyNC00MTMyLThhMjAtZGI5OTE1NzFlZGJjXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_FMjpg_UX1000_.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labo_4/opdracht_5/images/download.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labo_4/opdracht_5/likes.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/labo_3/homepage/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/labo_3/homepage/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/labo_4/opdracht_5/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/labo_4/opdracht_5/index.html" afterDir="false" />
-    </list>
+    <list default="true" id="de5787a1-1704-4ea3-bae5-9e3759213410" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -89,7 +79,7 @@
       <workItem from="1665407936888" duration="600000" />
       <workItem from="1665576413644" duration="2898000" />
       <workItem from="1665762221348" duration="3672000" />
-      <workItem from="1665822695014" duration="3120000" />
+      <workItem from="1665822695014" duration="3132000" />
     </task>
     <servers />
   </component>
