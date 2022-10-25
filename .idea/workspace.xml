@@ -2,12 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="de5787a1-1704-4ea3-bae5-9e3759213410" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/labo_5/Images/nietVolledig.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labo_5/Images/volledig.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/labo_5/Opdracht_4.html" beforeDir="false" afterPath="$PROJECT_DIR$/labo_5/Opdracht_4.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/labo_5/Opdracht_6/Styles/stijl.css" beforeDir="false" afterPath="$PROJECT_DIR$/labo_5/Opdracht_6/Styles/stijl.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/labo_5/Opdracht_6/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/labo_5/Opdracht_6/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/labo_5/Opdracht_7.html" beforeDir="false" afterPath="$PROJECT_DIR$/labo_5/Opdracht_7.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -98,7 +93,7 @@
       <workItem from="1666198507953" duration="719000" />
       <workItem from="1666431060357" duration="2085000" />
       <workItem from="1666622759841" duration="5913000" />
-      <workItem from="1666684414668" duration="2304000" />
+      <workItem from="1666684414668" duration="2991000" />
     </task>
     <servers />
   </component>
