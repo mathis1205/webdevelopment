@@ -1,19 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="de5787a1-1704-4ea3-bae5-9e3759213410" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/css_labo_2/Opdracht_5/Images/basket.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css_labo_2/Opdracht_5/Styles/stijl.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css_labo_2/Opdracht_6/Images/800px-U+2610.svg.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css_labo_2/Opdracht_6/Images/check-box-with-check_2611-fe0f.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css_labo_2/Opdracht_6/Styles/stijl.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css_labo_2/Opdracht_1/Styles/stijl.css" beforeDir="false" afterPath="$PROJECT_DIR$/css_labo_2/Opdracht_1/Styles/stijl.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css_labo_2/Opdracht_1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/css_labo_2/Opdracht_1/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css_labo_2/Opdracht_3/Styles/stijl.css" beforeDir="false" afterPath="$PROJECT_DIR$/css_labo_2/Opdracht_3/Styles/stijl.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css_labo_2/Opdracht_5.html" beforeDir="false" afterPath="$PROJECT_DIR$/css_labo_2/Opdracht_5/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css_labo_2/Opdracht_6.html" beforeDir="false" afterPath="$PROJECT_DIR$/css_labo_2/Opdracht_6/index.html" afterDir="false" />
-    </list>
+    <list default="true" id="de5787a1-1704-4ea3-bae5-9e3759213410" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -106,7 +94,7 @@
       <workItem from="1666622759841" duration="5913000" />
       <workItem from="1666684414668" duration="3259000" />
       <workItem from="1667047194151" duration="4298000" />
-      <workItem from="1667060000861" duration="2260000" />
+      <workItem from="1667060000861" duration="2320000" />
     </task>
     <servers />
   </component>
