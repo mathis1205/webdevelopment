@@ -2,11 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="de5787a1-1704-4ea3-bae5-9e3759213410" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/labo_7/Opdracht_2/Images/header.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labo_7/Opdracht_2/Styles/stijl.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labo_7/Opdracht_2/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labo_7/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labo_3/homepage/Styles/stijl.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labo_7/Opdracht_3/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labo_7/Opdracht_Nature_Blog/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/labo_3/homepage/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/labo_3/homepage/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/labo_7/Opdracht_2/Images/header.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/labo_7/Opdracht_Nature_Blog/Images/header.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/labo_7/Opdracht_2/Styles/stijl.css" beforeDir="false" afterPath="$PROJECT_DIR$/labo_7/Opdracht_Nature_Blog/Styles/stijl.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/labo_7/Opdracht_2/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/labo_7/Opdracht_2/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,8 +19,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="CSS File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -102,7 +105,8 @@
       <workItem from="1667047194151" duration="4298000" />
       <workItem from="1667060000861" duration="2320000" />
       <workItem from="1667063193652" duration="161000" />
-      <workItem from="1668000284207" duration="5370000" />
+      <workItem from="1668000284207" duration="5498000" />
+      <workItem from="1668164726076" duration="5949000" />
     </task>
     <servers />
   </component>

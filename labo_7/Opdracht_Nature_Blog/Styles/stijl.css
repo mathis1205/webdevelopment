@@ -18,10 +18,16 @@ nav{
 }
 body{
     margin: auto;
-    width: 1270px;
+    width: 1200px;
 }
-body > h1{
+h1{
     font-family: Arial,serif;
-    font-size: 3em;
+    font-size: 2em;
+    text-decoration: underline;
+}
+article{
+    background-color: lightgray;
+    padding: 1px;
+    margin: 10px;
 }
 
