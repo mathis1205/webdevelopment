@@ -1,0 +1,22 @@
+h2{
+    background-color: rgb(170,170,200);
+    margin: 0;
+    width:auto;
+}
+
+td,th{
+    border: thin dotted;
+}
+
+table{
+    border: 2px solid black;
+    border-collapse: collapse;
+}
+.day{
+    color: rgb(200,190,240);
+    background-color:  rgb(35,37,70);
+}
+.otherMonth{
+    background-color: lightgray;
+    color: dimgrey;
+}
