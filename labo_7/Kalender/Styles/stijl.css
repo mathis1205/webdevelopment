@@ -16,7 +16,13 @@ table{
     color: rgb(200,190,240);
     background-color:  rgb(35,37,70);
 }
-.otherMonth{
+td:first-child, td:last-child {
+    background-color: rgb(255,220,220);
+}
+td.otherMonth{
     background-color: lightgray;
     color: dimgrey;
+}
+td.free {
+    background-color: rgb(250,120,120);
 }
