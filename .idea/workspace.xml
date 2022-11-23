@@ -1,7 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="de5787a1-1704-4ea3-bae5-9e3759213410" name="Changes" comment="" />
+    <list default="true" id="de5787a1-1704-4ea3-bae5-9e3759213410" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/labo_8/Opdracht_1/Images/block.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labo_8/Opdracht_1/Images/inline-block.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labo_8/Opdracht_1/Images/inline.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labo_8/Opdracht_1/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labo_8/Opdracht_2/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labo_8/Opdracht_3/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labo_8/Opdracht_4/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labo_8/Opdracht_5/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labo_8/Opdracht_Cocktail_bar/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labo_8/Opdracht_Lorem_Ipsum/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labo_8/Opdracht_Lorem_Ipsum_extra_space/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,8 +23,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="CSS File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -44,7 +57,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/mathi/Documents/GitHub/webdevelopment",
+    "last_opened_file_path": "C:/Users/mathi/Documents/GitHub/webdevelopment/labo_8/Opdracht_1/Images",
     "list.type.of.created.stylesheet": "CSS",
     "nodejs_package_manager_path": "npm",
     "run.code.analysis.last.selected.profile": "pProject Default",
@@ -54,11 +67,11 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\mathi\Documents\GitHub\webdevelopment\labo_8\Opdracht_1\Images" />
       <recent name="C:\Users\mathi\Documents\GitHub\webdevelopment" />
       <recent name="C:\Users\mathi\Documents\GitHub\webdevelopment\labo_7\Opdracht_3\Images" />
       <recent name="C:\Users\mathi\Documents\GitHub\webdevelopment\css_labo_2\Opdracht_6\Images" />
       <recent name="C:\Users\mathi\Documents\GitHub\webdevelopment\css_labo_2\Opdracht_5\Images" />
-      <recent name="C:\Users\mathi\Documents\GitHub\webdevelopment\css_labo_2\Opdracht_6" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\mathi\Documents\GitHub\webdevelopment\labo_7\Opdracht_2\Images" />
@@ -103,6 +116,10 @@
       <workItem from="1668676588427" duration="7305000" />
       <workItem from="1668758464297" duration="611000" />
       <workItem from="1669145310477" duration="846000" />
+      <workItem from="1669197672843" duration="322000" />
+      <workItem from="1669209582176" duration="396000" />
+      <workItem from="1669210077913" duration="196000" />
+      <workItem from="1669210456280" duration="3454000" />
     </task>
     <servers />
   </component>
