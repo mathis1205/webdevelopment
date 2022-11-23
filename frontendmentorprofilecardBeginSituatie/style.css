@@ -17,6 +17,7 @@ body {
   /* zorg dat section-block in het midden komt */
   Display: flex;
   justify-content: center;
+  align-items: center;
 }
 
 
