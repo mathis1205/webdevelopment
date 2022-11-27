@@ -2,18 +2,29 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="de5787a1-1704-4ea3-bae5-9e3759213410" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/labo_8/Opdracht_1/Images/block.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labo_8/Opdracht_1/Images/inline-block.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labo_8/Opdracht_1/Images/inline.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labo_8/Opdracht_1/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labo_8/Opdracht_2/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labo_8/Opdracht_3/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labo_8/Opdracht_4/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labo_8/Opdracht_5/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labo_8/Opdracht_Cocktail_bar/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labo_8/Opdracht_Lorem_Ipsum/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labo_8/Opdracht_Lorem_Ipsum_extra_space/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labo_8/Cocktail_bar/Styles/stijl.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labo_8/Cocktail_bar/images/background.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labo_8/Cocktail_bar/images/black.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labo_8/Cocktail_bar/images/blue.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labo_8/Cocktail_bar/images/chai.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labo_8/Cocktail_bar/images/cocktail.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labo_8/Cocktail_bar/images/cocktails.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labo_8/Cocktail_bar/images/green.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labo_8/Cocktail_bar/images/lightblue.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labo_8/Cocktail_bar/images/red.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labo_8/Cocktail_bar/images/yellow.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labo_8/Cocktail_bar/loungestart.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labo_8/Opdracht_Lorem_Ipsum/Styles/stijl.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labo_8/Opdracht_Lorem_Ipsum_extra_space/Styles/stijl.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/labo_8/Opdracht_1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/labo_8/Opdracht_1/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/labo_8/Opdracht_2/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/labo_8/Opdracht_2/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/labo_8/Opdracht_3/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/labo_8/Opdracht_3/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/labo_8/Opdracht_4/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/labo_8/Opdracht_5/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/labo_8/Opdracht_Cocktail_bar/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/labo_8/Opdracht_Lorem_Ipsum/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/labo_8/Opdracht_Lorem_Ipsum/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/labo_8/Opdracht_Lorem_Ipsum_extra_space/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/labo_8/Opdracht_Lorem_Ipsum_extra_space/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,8 +34,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="CSS File" />
         <option value="HTML File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -57,7 +68,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/mathi/Documents/GitHub/webdevelopment/labo_8/Opdracht_1/Images",
+    "last_opened_file_path": "C:/Users/mathi/Documents/GitHub/webdevelopment/labo_8/Opdracht_Lorem_Ipsum_extra_space",
     "list.type.of.created.stylesheet": "CSS",
     "nodejs_package_manager_path": "npm",
     "run.code.analysis.last.selected.profile": "pProject Default",
@@ -67,18 +78,18 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\mathi\Documents\GitHub\webdevelopment\labo_8\Opdracht_Lorem_Ipsum_extra_space" />
       <recent name="C:\Users\mathi\Documents\GitHub\webdevelopment\labo_8\Opdracht_1\Images" />
       <recent name="C:\Users\mathi\Documents\GitHub\webdevelopment" />
       <recent name="C:\Users\mathi\Documents\GitHub\webdevelopment\labo_7\Opdracht_3\Images" />
       <recent name="C:\Users\mathi\Documents\GitHub\webdevelopment\css_labo_2\Opdracht_6\Images" />
-      <recent name="C:\Users\mathi\Documents\GitHub\webdevelopment\css_labo_2\Opdracht_5\Images" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\mathi\Documents\GitHub\webdevelopment\labo_8\Cocktail_bar\images" />
+      <recent name="C:\Users\mathi\Documents\GitHub\webdevelopment\labo_8\Cocktail_bar" />
       <recent name="C:\Users\mathi\Documents\GitHub\webdevelopment\labo_7\Opdracht_2\Images" />
       <recent name="C:\Users\mathi\Documents\GitHub\webdevelopment\css_labo_2\Opdracht_5\Styles" />
       <recent name="C:\Users\mathi\Documents\GitHub\webdevelopment\css_labo_2\Opdracht_6" />
-      <recent name="C:\Users\mathi\Documents\GitHub\webdevelopment\css_labo_2\Opdracht_5" />
-      <recent name="C:\Users\mathi\Documents\GitHub\webdevelopment\css_labo_2\Opdracht_3" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -119,7 +130,13 @@
       <workItem from="1669197672843" duration="322000" />
       <workItem from="1669209582176" duration="396000" />
       <workItem from="1669210077913" duration="196000" />
-      <workItem from="1669210456280" duration="3454000" />
+      <workItem from="1669210456280" duration="3467000" />
+      <workItem from="1669537452734" duration="650000" />
+      <workItem from="1669538319047" duration="123000" />
+      <workItem from="1669538531738" duration="28000" />
+      <workItem from="1669538647130" duration="350000" />
+      <workItem from="1669539022628" duration="753000" />
+      <workItem from="1669539860609" duration="6704000" />
     </task>
     <servers />
   </component>
