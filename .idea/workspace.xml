@@ -1,31 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="de5787a1-1704-4ea3-bae5-9e3759213410" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/labo_8/Cocktail_bar/Styles/stijl.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labo_8/Cocktail_bar/images/background.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labo_8/Cocktail_bar/images/black.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labo_8/Cocktail_bar/images/blue.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labo_8/Cocktail_bar/images/chai.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labo_8/Cocktail_bar/images/cocktail.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labo_8/Cocktail_bar/images/cocktails.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labo_8/Cocktail_bar/images/green.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labo_8/Cocktail_bar/images/lightblue.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labo_8/Cocktail_bar/images/red.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labo_8/Cocktail_bar/images/yellow.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labo_8/Cocktail_bar/loungestart.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labo_8/Opdracht_Lorem_Ipsum/Styles/stijl.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labo_8/Opdracht_Lorem_Ipsum_extra_space/Styles/stijl.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/labo_8/Opdracht_1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/labo_8/Opdracht_1/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/labo_8/Opdracht_2/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/labo_8/Opdracht_2/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/labo_8/Opdracht_3/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/labo_8/Opdracht_3/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/labo_8/Opdracht_4/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/labo_8/Opdracht_5/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/labo_8/Opdracht_Cocktail_bar/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/labo_8/Opdracht_Lorem_Ipsum/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/labo_8/Opdracht_Lorem_Ipsum/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/labo_8/Opdracht_Lorem_Ipsum_extra_space/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/labo_8/Opdracht_Lorem_Ipsum_extra_space/index.html" afterDir="false" />
-    </list>
+    <list default="true" id="de5787a1-1704-4ea3-bae5-9e3759213410" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -136,7 +112,7 @@
       <workItem from="1669538531738" duration="28000" />
       <workItem from="1669538647130" duration="350000" />
       <workItem from="1669539022628" duration="753000" />
-      <workItem from="1669539860609" duration="6704000" />
+      <workItem from="1669539860609" duration="6988000" />
     </task>
     <servers />
   </component>
