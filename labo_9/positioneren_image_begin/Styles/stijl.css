@@ -6,10 +6,14 @@ article:nth-child(odd) > p > img{
 }
 p{
     font-size: 1.25em;
+    margin: 10px;
 }
 article{
     margin: 10px;
     border: solid black;
     padding: 10px;
     height: 270px;
+}
+article > p > img{
+    margin: 10px;
 }

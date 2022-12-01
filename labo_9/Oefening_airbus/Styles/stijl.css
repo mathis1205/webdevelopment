@@ -1,0 +1,16 @@
+body{
+    width: 960px;
+    margin: auto;
+    background-image: url("../fotos/pagebackground.png");
+    background-repeat: repeat-y;
+    background-color: #e6e6e6;
+    background-position: center;
+    font-family: Arial, serif;
+}
+header{
+    height: 200px;
+    background-image: url("../fotos/bgsky3.jpg");
+    text-align: center;
+    position: relative;
+    background-repeat: no-repeat;
+}
