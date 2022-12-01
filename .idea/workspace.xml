@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="de5787a1-1704-4ea3-bae5-9e3759213410" name="Changes" comment="" />
+    <list default="true" id="de5787a1-1704-4ea3-bae5-9e3759213410" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/labo_9/positioneren_image_begin/Images/flight1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labo_9/positioneren_image_begin/Images/flight2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labo_9/positioneren_image_begin/Images/flight3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labo_9/positioneren_image_begin/Images/flight4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labo_9/positioneren_image_begin/Styles/stijl.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labo_9/positioneren_image_begin/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -44,7 +52,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/mathi/Documents/GitHub/webdevelopment/labo_8/Opdracht_Lorem_Ipsum_extra_space",
+    "last_opened_file_path": "C:/Users/mathi/Documents/GitHub/webdevelopment/labo_9",
     "list.type.of.created.stylesheet": "CSS",
     "nodejs_package_manager_path": "npm",
     "run.code.analysis.last.selected.profile": "pProject Default",
@@ -54,11 +62,11 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\mathi\Documents\GitHub\webdevelopment\labo_9" />
       <recent name="C:\Users\mathi\Documents\GitHub\webdevelopment\labo_8\Opdracht_Lorem_Ipsum_extra_space" />
       <recent name="C:\Users\mathi\Documents\GitHub\webdevelopment\labo_8\Opdracht_1\Images" />
       <recent name="C:\Users\mathi\Documents\GitHub\webdevelopment" />
       <recent name="C:\Users\mathi\Documents\GitHub\webdevelopment\labo_7\Opdracht_3\Images" />
-      <recent name="C:\Users\mathi\Documents\GitHub\webdevelopment\css_labo_2\Opdracht_6\Images" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\mathi\Documents\GitHub\webdevelopment\labo_8\Cocktail_bar\images" />
@@ -113,6 +121,8 @@
       <workItem from="1669538647130" duration="350000" />
       <workItem from="1669539022628" duration="753000" />
       <workItem from="1669539860609" duration="6988000" />
+      <workItem from="1669667532326" duration="226000" />
+      <workItem from="1669814543095" duration="2997000" />
     </task>
     <servers />
   </component>
