@@ -2,30 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="de5787a1-1704-4ea3-bae5-9e3759213410" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/labo_9/Oefening_airbus/Styles/stijl.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labo_9/Oefening_airbus/airbus.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labo_9/Oefening_airbus/fotos/A380Grond.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labo_9/Oefening_airbus/fotos/Britischairways.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labo_9/Oefening_airbus/fotos/abramovich.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labo_9/Oefening_airbus/fotos/airbus_logo.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labo_9/Oefening_airbus/fotos/bgsky1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labo_9/Oefening_airbus/fotos/bgsky2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labo_9/Oefening_airbus/fotos/bgsky3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labo_9/Oefening_airbus/fotos/binnen1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labo_9/Oefening_airbus/fotos/binnen2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labo_9/Oefening_airbus/fotos/binnen3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labo_9/Oefening_airbus/fotos/cockpit.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labo_9/Oefening_airbus/fotos/indelucht.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labo_9/Oefening_airbus/fotos/indelucht2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labo_9/Oefening_airbus/fotos/pagebackground.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labo_9/Oefening_airbus/fotos/pasagiers.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labo_9/Oefening_airbus/fotos/qantas.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labo_9/Oefening_airbus/fotos/tek.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labo_9/Oefening_airbus/fotos/tekening.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labo_9/Oefening_airbus/fotos/tekklein.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labo_9/Oefening_airbus/fotos/transport.JPG" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/labo_9/positioneren_image_begin/Styles/stijl.css" beforeDir="false" afterPath="$PROJECT_DIR$/labo_9/positioneren_image_begin/Styles/stijl.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/labo_9/Oefening_airbus/Styles/stijl.css" beforeDir="false" afterPath="$PROJECT_DIR$/labo_9/Oefening_airbus/Styles/stijl.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/labo_9/Oefening_airbus/airbus.html" beforeDir="false" afterPath="$PROJECT_DIR$/labo_9/Oefening_airbus/airbus.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -141,6 +121,7 @@
       <workItem from="1669667532326" duration="226000" />
       <workItem from="1669814543095" duration="2997000" />
       <workItem from="1669903808202" duration="5289000" />
+      <workItem from="1670141556796" duration="5111000" />
     </task>
     <servers />
   </component>
