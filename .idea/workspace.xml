@@ -1,16 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="de5787a1-1704-4ea3-bae5-9e3759213410" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/labo_10/Begin_situatie_mediaQueries/CSS/oef1.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labo_10/Begin_situatie_mediaQueries/images/cat.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labo_10/Begin_situatie_mediaQueries/images/cat1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labo_10/Begin_situatie_mediaQueries/images/cat2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labo_10/Begin_situatie_mediaQueries/images/cat3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labo_10/Begin_situatie_mediaQueries/images/cat4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labo_10/Begin_situatie_mediaQueries/oef1.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="de5787a1-1704-4ea3-bae5-9e3759213410" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -126,7 +117,7 @@
       <workItem from="1669814543095" duration="2997000" />
       <workItem from="1669903808202" duration="5289000" />
       <workItem from="1670141556796" duration="5189000" />
-      <workItem from="1670423030888" duration="1819000" />
+      <workItem from="1670423030888" duration="1933000" />
     </task>
     <servers />
   </component>
