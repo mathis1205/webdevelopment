@@ -61,7 +61,10 @@
   padding-left: calc(var(--bs-gutter-x) * .5);
   margin-top: var(--bs-gutter-y);
 }
-
+.img-fluid{
+  max-width: 100%;
+  height: auto;
+}
 .col {
   flex: 1 0 0%;
 }

@@ -1,14 +1,19 @@
 body {
     font-family: Arial, Helvetica, serif;
-    width: 80%;
+    width: 90%;
     margin: 0 auto;
 }
 
 header {
-    background-color: #8D99AE;
+    margin-top: 5px;
+    background-color: #0070A8;
     border-radius: 20px;
+    color: white;
 }
-
+img {
+    border-radius: 25%;
+    size: 40px;
+}
 h1 {
     margin: 0;
     font-weight: bold;
@@ -16,36 +21,37 @@ h1 {
     font-size: 6em;
     padding-top: 30px;
 }
-
-img {
-    border-radius: 100%;
-    border: .25em solid white;
-    size: 40px;
-}
-
-#vrienden {
-    background-color: #2B2D42;
-    border-radius: 10px;
+#friends {
+    background-color: #0070A8;
     color: white;
+    border-radius: 20px;
+    margin-top: 5px;
 }
-
-#vrienden > h2 {
+#likes {
+    margin-top: 5px;
+    background-color: #0070A8;
+    color: white;
+    border-radius: 20px;
+}
+#friends > h2 {
     text-align: center;
 }
 
-#persoonlijkeInformatie {
+#info {
     background-color: #EDF2F4;
     border-radius: 10px;
     padding-bottom: 40px;
 }
 
-#persoonlijkeInformatie > h2 {
+#info > h2 {
     padding: 0 30px 10px 80px;
 }
 
 #hobbies {
     background-color: white;
     padding: 0 30px 40px 0;
+    margin-top: 5px;
+    border-radius: 20px;
 }
 
 #hobbies > h3 {
@@ -54,28 +60,33 @@ img {
 }
 
 #gamen {
-    background-color: black;
+    background-color: #0070A8;
     color: white;
+    border-radius: 10px;
 }
 
-#fitness {
-    background-color: black;
+#basket {
+    background-color: #0070A8;
     color: white;
+    border-radius: 10px;
 }
 
-#feesten {
-    background-color: black;
+#party {
+    background-color: #0070A8;
     color: white;
+    border-radius: 10px;
 }
 
-#programmeren {
-    background-color: black;
+#programming {
+    background-color: #0070A8;
     color: white;
+    border-radius: 10px;
 }
 
 #aboutme {
     background-color: white;
     padding: 0 30px 40px 0;
+    border-radius: 20px;
 }
 
 #aboutme > h3 {
