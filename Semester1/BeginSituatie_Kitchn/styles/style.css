@@ -1,0 +1,14 @@
+/** Volgende CSS gaan we ze geven **/
+.respimg {
+    width: 100%;
+    height: auto;
+    display: block;
+}
+
+header{
+    border-bottom: 1px solid #ebe8e8;
+    margin-bottom: 100px;
+}
+header > div > img{
+    height: 50px;
+}
