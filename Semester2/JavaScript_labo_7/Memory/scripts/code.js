@@ -45,9 +45,9 @@ const kaartOmdraaien = (event) => {
             global.kaart_2 = event.target;
             if (global.kaart_1.getAttribute("src") === global.kaart_2.getAttribute("src") &&
             global.kaart_1.getAttribute("id") !== global.kaart_2.getAttribute("id")) {
-                global.timeout = setTimeout(kaartenMatch, 1500);
+                global.timeout = setTimeout(kaartenMatch, 500);
             } else if (global.kaart_1.getAttribute("id") !== global.kaart_2.getAttribute("id")) {
-                global.timeout = setTimeout(kaartenTerugDraaien, 1500);
+                global.timeout = setTimeout(kaartenTerugDraaien, 500);
             } else {
                 global.kaart_2 = null;
             }
