@@ -14,7 +14,6 @@ const startGame = (event) => {
     event.target.remove();
     randomObjectInvoegen();
 }
-
 const randomObjectInvoegen = () => {
     let field = document.querySelector("#playField");
     let object = document.createElement("img");
