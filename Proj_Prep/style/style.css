@@ -22,8 +22,13 @@ header h1 {
 }
 
 main h1{
+    text-align: center;
     font-family: "Arial", serif;
     font-size: 3em;
+}
+
+body main{
+    align-items: center;
 }
 
 main a {
@@ -70,7 +75,6 @@ div {
 
 @media (min-width: 1000px){
     main {
-        display: grid;
         grid-template-columns: 1fr 1fr 1fr;
         margin: 20px 100px;
     }
@@ -93,7 +97,6 @@ div {
 
 @media (min-width: 1285px){
     main {
-        display: grid;
         grid-template-columns: 1fr 1fr 1fr;
         margin: 20px 100px;
     }
