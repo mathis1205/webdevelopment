@@ -15,9 +15,14 @@ header>a img{
     float: left;
 }
 
-h1 {
+header h1 {
     font-family: "Arial", serif;
     color: white;
+    font-size: 3em;
+}
+
+main h1{
+    font-family: "Arial", serif;
     font-size: 3em;
 }
 
