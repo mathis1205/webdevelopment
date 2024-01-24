@@ -7,6 +7,12 @@ header {
     background-color: #2B2D42;
     padding: 2px 4px;
     text-align: center;
+    max-height: 150px;
+}
+header>a img{
+    height: 140px;
+    width: auto;
+    float: left;
 }
 
 h1 {
@@ -15,7 +21,7 @@ h1 {
     font-size: 3em;
 }
 
-a {
+main a {
     border: solid black 3px;
     border-radius: 10px;
     background-color: #2B2D42;
@@ -29,7 +35,7 @@ a {
     font-weight: bold;
 }
 
-a:hover {
+main a:hover {
     background-color: #EDF2F4;
     color: black;
     border: solid black 3px;
@@ -63,7 +69,7 @@ div {
         grid-template-columns: 1fr 1fr 1fr;
         margin: 20px 100px;
     }
-    a {
+    main a {
         border: solid black 3px;
         border-radius: 10px;
         background-color: #2B2D42;
@@ -86,7 +92,7 @@ div {
         grid-template-columns: 1fr 1fr 1fr;
         margin: 20px 100px;
     }
-    a {
+    main a {
         border: solid black 3px;
         border-radius: 10px;
         background-color: #2B2D42;
