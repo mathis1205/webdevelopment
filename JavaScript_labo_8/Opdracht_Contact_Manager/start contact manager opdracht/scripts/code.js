@@ -8,7 +8,7 @@ const bewaarBewerktePersoon = () => {
     if (elements.length === 0){
         let lstPersonen = document.getElementById("lstPersonen");
         let persoon = {};
-        if (lstPersonen.selectedIndex == -1){
+        if (lstPersonen.selectedIndex === -1){
             vulPersoonOpBasisVanUserInterface(persoon);
             personen.push(persoon);
             voegPersoonToeAanLijstInUserInterface(persoon);

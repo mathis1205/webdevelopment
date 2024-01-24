@@ -1,0 +1,15 @@
+#playField{
+    height: 650px;
+    width: 800px;
+    margin: 50px auto 10px auto;
+    position: relative;
+    display: grid;
+    grid-template-columns: repeat(9, 1fr);
+    grid-template-rows: repeat(4, 1fr);
+}
+#btnFindSeat{
+    position: absolute;
+    left: 50%;
+    bottom: 1%;
+    transform: translate(-50%, -50%);
+}
