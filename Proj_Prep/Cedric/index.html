@@ -5,27 +5,52 @@
         <title>Cedric</title>
         <meta name="description" content="personal page">
         <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous">
         <link href="style/style.css" rel="stylesheet" type="text/css">
     </head>
     <body>
-        <a href="/Proj_Prep/index.html">home</a>
-        <h1>personal information</h1>
-        <ul>
-            <li>Cedric Vaneessen</li>
-            <li>Rue du Rubané 18</li>
-            <li>056212301</li>
-            <li>cedric.Vaneessen@student.vives.be</li>
-            <li><img style="height: 250px;" src="./images/IMG_3874.JPG" alt="photo"></li>
-        </ul>
-        <h1>hobbies</h1>
-        <ol>
-            <li>Gaming : playing around on the computer, <a href="http://store.steampowered.com/">steam</a></li>
-            <li>Programming : rewriting or writing code, <a href="https://code.visualstudio.com/">vs code</a></li>
-            <li>Reading manga : reading online manga's , <a href="https://asura.gg/">website</a></li>
-        </ol>
-        <h1>Likes</h1>
-        <ul>
-            <li><p>music : nightcore, <a href="https://www.youtube.com/results?search_query=nightcore">nightcore</a></p></li>            
-        </ul>
+        <div class="container">
+            <header class="d-flex flex-wrap justify-content-center py-3 mb-4 border-bottom">
+              <a href="/Proj_Prep/index.html" class="d-flex align-items-center mb-3 mb-md-0 me-md-auto link-body-emphasis text-decoration-none">
+                <svg class="bi me-2" width="40" height="32"><use xlink:href="#bootstrap"></use></svg>
+                <span class="fs-4">Cedric Vaneessen</span>
+              </a>
+        
+              <ul class="nav nav-pills">
+                <li class="nav-item"><a href="#Person" class="nav-link">Personal info</a></li>
+                <li class="nav-item"><a href="#hobbies" class="nav-link">Hobbies</a></li>
+                <li class="nav-item"><a href="#like" class="nav-link">Like</a></li>
+              </ul>
+            </header>
+        </div>
+
+        <section id="Person" class="container">
+            <h2>personal information</h1>
+            <div>
+                <img style="height: 250px;" src="./images/IMG_3874.JPG" alt="photo">
+                <ul>
+                    <li>Cedric Vaneessen</li>
+                    <li>Rue du Rubané 18</li>
+                    <li>056212301</li>
+                    <li>cedric.Vaneessen@student.vives.be</li>
+                </ul>
+            </div>
+        </section>
+        
+        <section class="container" id="hobbies">
+            <h2>hobbies</h1>
+            <ol>
+                <li>Gaming : playing around on the computer, <a href="http://store.steampowered.com/">steam</a></li>
+                <li>Programming : rewriting or writing code, <a href="https://code.visualstudio.com/">vs code</a></li>
+                <li>Reading manga : reading online manga's , <a href="https://asura.gg/">website</a></li>
+            </ol>
+        </section>
+        <section class="container" id="like">
+            <h2>Likes</h1>
+            <ul>
+                <li><p>music : nightcore, <a href="https://www.youtube.com/results?search_query=nightcore">nightcore</a></p></li>            
+            </ul>
+        </section>
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-C6RzsynM9kWDrMNeT87bh95OGNyZPhcTNXj1NW7RuBCsyN/o0jlpcV8Qyq46cDfL" crossorigin="anonymous"></script>
     </body>
 </html>
